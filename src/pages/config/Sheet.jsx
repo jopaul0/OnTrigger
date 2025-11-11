@@ -35,7 +35,7 @@ export default function SheetPage() {
             <div className="left">
                 <h2>Configuração da Planilha</h2>
                 <p>
-                    Para que o sistema funcione corretamente, é necessário ter uma planilha no Google Sheets com colunas específicas (ex: A, B, C, etc.), conforme o padrão da aplicação.
+                    Para que o sistema funcione corretamente, é necessário ter uma planilha no Google Sheets com colunas específicas na ordem certa: Nome da Organização, Nome do Pessoa, Data do Aniversário e o Número do Whatsapp.
                 </p>
                 <p>
                     O campo de data de nascimento deve estar no formato <strong>dd/mm/aaaa</strong>, e o número de telefone deve conter apenas os dígitos, começando com o <strong>DDI</strong> (ex: 5599999999999).
